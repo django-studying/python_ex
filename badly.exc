@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/user/Documents/GitHub/django-studying/python/exctool.py", line 9, in safe
+    func()
+  File "/Users/user/Documents/GitHub/django-studying/python/exception_ex_396_1_2.py", line 10, in oops
+    raise m
+exception_ex_396_1_2.MyError
